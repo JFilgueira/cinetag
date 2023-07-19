@@ -1,0 +1,33 @@
+.card {
+    height: 425px;
+    width: 220px;
+    position: relative;
+    margin-bottom: 2em;
+}
+
+.cardBanner {
+    width: 100%;
+    height: 400px;
+}
+
+.cardActionsContainer {
+    position: absolute;
+    bottom: 10%;
+    right: 35%;
+}
+
+.cardActions {
+    background-color: black;
+    opacity: .8;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    position: relative;
+}
+
+.cardActions i {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}

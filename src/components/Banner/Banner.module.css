@@ -1,0 +1,23 @@
+.banner {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 45vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.banner h1 {
+    font-size: 3em;
+    margin-bottom: 0;
+}
+
+.banner p {
+    max-width: 600px;
+    text-align: center;
+    font-size: 1.3em;
+    color: #fff;
+    font-weight: 500;
+}

@@ -1,0 +1,74 @@
+{
+    "movies": [
+        {
+            "id": 1,
+            "title": "Singin' In The Rain",
+            "description": "Don Lockwood (Gene Kelly) e Lina Lamont (Jean Hagen) são dois dos astros mais famosos da época do cinema mudo em Hollywood. Seus filmes são um verdadeiro sucesso de público e as revistas inclusive apostam num relacionamento mais íntimo entre os dois, o que não existe na realidade. Mas uma novidade no mundo do cinema chega para mudar totalmente a situação de ambos no mundo da fama: o cinema falado, que logo se torna a nova moda entre os espectadores. Decidido a produzir um filme falado com o casal mais famoso do momento, Don e Lina precisam entretanto superar as dificuldades do novo método de se fazer cinema, para conseguir manter a fama conquistada.",
+            "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Singin%27_in_the_Rain_%281952_poster%29.jpg/350px-Singin%27_in_the_Rain_%281952_poster%29.jpg",
+            "link": "https://www.youtube.com/watch?v=5_EVHeNEIJY&pp=ygUac2luZ2luIGluIHRoZSByYWluIHRyYWlsZXI%3D"
+        },
+        {
+            "id": 2,
+            "title": "Psycho",
+            "description": "Em Psicose, Marion Crane (Janet Leigh) é uma secretária que rouba 40 mil dólares da imobiliária onde trabalha para se casar e começar uma nova vida. Durante a fuga a carro, ela enfrenta uma forte tempestade, erra o caminho e chega em um velho hotel. O estabelecimento é administrado por um sujeito atencioso chamado Norman Bates (Anthony Perkins), que nutre um forte respeito e temor por sua mãe. Marion decide passar a noite no local, sem saber o perigo que a cerca.",
+            "cover": "https://upload.wikimedia.org/wikipedia/pt/d/d5/Psycho_-_%281960%29.jpg",
+            "link": "https://www.youtube.com/watch?v=NG3-GlvKPcg&pp=ygUOcHN5Y2hvIHRyYWlsZXI%3D"
+        },
+        {
+            "id": 3,
+            "title": "Vertigo",
+            "description": "descriptionEm São Francisco, o detetive aposentado John 'Scottie' Ferguson (James Stewart) sofre de um terrível medo de alturas. Certo dia, encontra com um antigo conhecido, dos tempos de faculdade, que pede que ele siga sua esposa, Madeleine Elster (Kim Novak). John aceita a tarefa e fica encarregado da mulher, seguindo-a por toda a cidade. Ela demonstra uma estranha atração por lugares altos, levando o detetive a enfrentar seus piores medos. Ele começa a acreditar que a mulher é louca, com possíveis tendências suicidas, quando algo estranho acontece nesta missão.",
+            "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Vertigomovie_restoration.jpg/360px-Vertigomovie_restoration.jpg",
+            "link": "https://www.youtube.com/watch?v=Z5jvQwwHQNY&pp=ygUPdmVydGlnbyB0cmFpbGVy"
+        },
+        {
+            "id": 4,
+            "title": "What Ever Happened to Baby Jane?",
+            "description": "Jane Hudson é uma artista que, quando criança, ficou famosa e conhecida como Baby Jane. Depois de um acidente, ela caiu no ostracismo e, já adulta, vive trancafiada na casa que divide com sua irmã Blanche. Destinada a voltar aos palcos, a atriz vai tentar retomar o personagem que a fez famosa - nem que para isso precise passar por cima de algumas pessoas bem próximas.",
+            "cover": "https://upload.wikimedia.org/wikipedia/pt/a/a9/What_Ever_Happened_to_Baby_Jane.jpg",
+            "link": "https://www.youtube.com/watch?v=Cth9aakWf38&pp=ygUed2hhdGV2ZXIgaGFwcGVuZWQgdG8gYmFieSBqYW5l"
+        },
+        {
+            "id": 5,
+            "title": "I Confess",
+            "description": "Otto Kellar (O. E. Hasse) trabalha como o guardião da igreja católica de Quebec. Ele acaba assassinando um homem ao assaltar uma casa. Com a culpa corroendo seu espírito, Otto decide confessar tudo para o padre Michael Logan (Montgomery Clift). Algum tempo depois, a polícia começa a suspeitar que Logan tenha sido o autor do crime e a única maneira que o padre tem para limpar seu nome é quebrar o sigilo do confessionário - algo impensável e impossível para um padre.",
+            "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/I_confess_poster.jpg/300px-I_confess_poster.jpg",
+            "link": "https://www.youtube.com/watch?v=NiajVY-f99s&pp=ygUJaSBjb25mZXNz"
+        },
+        {
+            "id": 6,
+            "title": "Casablanca",
+            "description": "descriptionDurante a Segunda Guerra Mundial, muitos fugitivos tentavam escapar dos nazistas por uma rota que passava pela cidade de Casablanca. O exilado americano Rick Blaine (Humphrey Bogart) encontrou refúgio na cidade, dirigindo uma das principais casas noturnas da região. Clandestinamente, tentando despistar o Capitão Renault (Claude Rains), ele ajuda refugiados, possibilitando que eles fujam para os Estados Unidos. Quando um casal pede sua ajuda para deixar o país, ele reencontra uma grande paixão do passado, a bela Ilsa (Ingrid Bergman). Este amor vai encontrar uma nova vida e eles vão lutar para fugir juntos.",
+            "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/CasablancaPoster-Gold.jpg/368px-CasablancaPoster-Gold.jpg",
+            "link": "https://www.youtube.com/watch?v=MF7JH_54d8c&pp=ygUSY2FzYWJsYW5jYSB0cmFpbGVy"
+        },
+        {
+            "id": 7,
+            "title": "It's a Wonderful Life",
+            "description": "Em Bedford Falls, no Natal, George Bailey (James Stewart), que sempre ajudou a todos, pensa em se suicidar saltando de uma ponte, em razão das maquinações de Henry Potter (Lionel Barrymore), o homem mais rico da região. Mas tantas pessoas oram por ele que Clarence (Henry Travers), um anjo que espera há 220 anos para ganhar asas é mandado à Terra para tentar fazer George mudar de idéia, demonstrando sua importância através de flashbacks.",
+            "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/It%27s_a_Wonderful_Life_%281946_poster%29.jpeg/350px-It%27s_a_Wonderful_Life_%281946_poster%29.jpeg",
+            "link": "https://www.youtube.com/watch?v=iLR3gZrU2Xo&pp=ygUWaXQncyBhIHdvbmRlcmZ1bCBsaWZlIA%3D%3D"
+        },
+        {
+            "id": 8,
+            "title": "The Pirate",
+            "description": "A girl is engaged to the local rich man, but meanwhile she has dreams about the legendary pirate Macoco. A traveling singer falls in love with her and to impress her he poses as the pirate.",
+            "cover": "https://upload.wikimedia.org/wikipedia/en/b/b6/The_Pirate_%281948_movie_poster%29.jpg",
+            "link": "https://www.youtube.com/watch?v=c18WhJb80h4&pp=ygUSdGhlIHBpcmF0ZSB0cmFpbGVy"
+        },
+        {
+            "id": 9,
+            "title": "Shichinin no Samurai",
+            "description": "No século XVI, durante a era Sengoku, quando os poderosos samurais de outrora estavam com os dias contados pois eram agora desprezados pelos seus aristocráticos senhores (samurais sem mestre eram chamados de 'ronin'). Kambei (Takashi Shimura), um guerreiro veterano sem dinheiro, chega em uma aldeia indefesa que foi saqueada repetidamente por ladrões assassinos. Os moradores do vilarejo pedem sua ajuda, fazendo com que Kambei recrute seis outros ronins, que concordam em ensinar os habitantes como devem se defender em troca de comida. Os aldeões dão boas-vindas aos guerreiros e algumas relações começam. Katsushiro (Ko Kimura) se apaixona por uma das mulheres locais, embora os outros ronins mantenham distância dos camponeses. O último dos guerreiros que chega é Kikuchio (Toshiro Mifune), que finge estar qualificado mas na realidade é o filho de um camponês que almeja aceitação.",
+            "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Sevensamurai-movieposter1954.jpg/300px-Sevensamurai-movieposter1954.jpg",
+            "link": "https://www.youtube.com/watch?v=wJ1TOratCTo&pp=ygUYb3Mgc2V0ZSBzYW11cmFpcyB0cmFpbGVy"
+        },
+        {
+            "id": 10,
+            "title": "The Good, the Bad and the Ugly",
+            "description": "Um impostor se junta com dois homens para encontrar fortuna num remoto cemitério.",
+            "cover": "https://upload.wikimedia.org/wikipedia/pt/1/12/The_Good_the_Bad_and_the_Ugly.jpg",
+            "link": "https://www.youtube.com/watch?v=WCN5JJY_wiA&pp=ygUldGhlIGdvb2QgdGhlIGJhZCBhbmQgdGhlIHVnbHkgdHJhaWxlcg%3D%3D"
+        }
+    ]
+}

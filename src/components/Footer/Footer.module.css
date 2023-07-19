@@ -1,0 +1,49 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1em 2em;
+}
+
+.socialIcons {
+    display: flex;
+    justify-content: space-between;
+}
+
+.socialIcons i {
+    margin-right: 1em;
+    color: var(--gray);
+    cursor: pointer;
+}
+
+.socialIcons i:hover {
+    color: #fff;
+}
+
+.footerInfo p {
+    color: var(--gray);
+    font-size: 1em;
+}
+
+.footerInfo a {
+    color: var(--gray);
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.footerInfo a:hover {
+    color: #fff;
+}
+
+.footerNav {
+    display: flex;
+    padding-left: 0;
+    align-items: center;
+}
+
+.footerNav li {
+    list-style: none;
+    cursor: pointer;
+    color: var(--gray);
+    margin-right: 1em;
+}

@@ -1,0 +1,23 @@
+.cardContainer {
+    width: 80%;
+    margin: 4em auto;
+}
+
+.sectionTitle h1 {
+    font-size:2em;
+    margin-bottom: 0;
+}
+
+.sectionTitle div {
+    border-top: 5px solid #fff;
+    width: 200px;
+    border-radius: 20px;
+    margin-top: 10px;
+}
+
+.cards {
+    margin: 2em 0;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}

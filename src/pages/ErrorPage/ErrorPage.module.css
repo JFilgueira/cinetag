@@ -1,0 +1,29 @@
+.errorPage {
+    text-align: center;
+    margin-bottom: 10em;
+}
+
+.errorPage h1 {
+    font-size: 7em;
+    margin-bottom: 0;
+}
+
+.errorPage p {
+    margin-top: 10px;
+    font-size: 2em;
+    margin-bottom: 2em;
+}
+
+.errorPage a {
+    background-color: var(--btn-color);
+    font-size: 2em;
+    text-decoration: none;
+    color: #fff;
+    padding: .5em 2em;
+    border-radius: 50px;
+    font-weight: 700;
+}
+
+.errorPage a:hover {
+    background-color: #FF8CE6;
+}

@@ -1,0 +1,22 @@
+.info {
+    display: flex;
+    justify-content: center;
+    padding: 2em;
+}
+
+.infoSection {
+    width: 30%;
+    margin-right: 1em;
+}
+
+.infoActions {
+    width: 70%;
+}
+
+.infoActions h1 {
+    font-size: 1.8em;
+}
+
+iframe {
+    height: 50vh;
+}
