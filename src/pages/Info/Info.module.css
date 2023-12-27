@@ -20,3 +20,21 @@
 iframe {
     height: 50vh;
 }
+
+@media (max-width: 450px) {
+    .info {
+        flex-direction: column;
+    }
+
+    .infoSection {
+        width: 100%;
+    }
+
+    .infoActions {
+        width: 100%;
+    }
+
+    iframe {
+        width: 100%;
+    }
+ }

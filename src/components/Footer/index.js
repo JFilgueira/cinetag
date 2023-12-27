@@ -11,7 +11,7 @@ const Footer = () => {
                 <i class="fa-brands fa-twitter"></i>
             </div>
             <div className={styles.footerInfo}>
-                <p>&copy; 2023 <a href="https://github.com/jfilgueira">JoaoFilgueira</a>. Todos os direitos reservados.</p>
+                <p>&copy; 2023 <a href="https://github.com/jfilgueira" target="_blank" rel="noopener noreferrer">JoaoFilgueira</a>. Todos os direitos reservados.</p>
                 <nav>
                     <ul className={styles.footerNav}>
                         <li>

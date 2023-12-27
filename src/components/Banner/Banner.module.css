@@ -21,3 +21,20 @@
     color: #fff;
     font-weight: 500;
 }
+
+@media (max-width: 450px) {
+    .banner {
+        height: 70vh;
+    }
+
+    .banner h1 {
+        text-align: center;
+        font-size: 2em;
+        padding: 0 1em;
+    }
+
+    .banner p {
+        text-align: center;
+        font-size: 1.5em;
+    }
+}

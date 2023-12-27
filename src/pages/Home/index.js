@@ -24,7 +24,7 @@ const Home = () => {
       />
       <section className={styles.cardContainer}>
         <div className={styles.sectionTitle}>
-          <h1>Grandes Clássicos do cinema:</h1>
+          <h1>Grandes Clássicos do cinema</h1>
           <div className={styles.border}></div>
         </div>
         <div className={styles.cards}>

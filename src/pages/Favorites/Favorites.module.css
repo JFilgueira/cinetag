@@ -21,3 +21,13 @@
     justify-content: space-between;
     flex-wrap: wrap;
 }
+
+@media (max-width: 450px) {
+    .sectionTitle h1 {
+        font-size: 1.33em;
+    }
+
+    .sectionTitle div {
+        width: 100px;
+    }
+}

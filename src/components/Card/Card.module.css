@@ -31,3 +31,14 @@
     top: 50%;
     transform: translate(-50%, -50%);
 }
+
+@media (max-width: 450px) {
+    .card {
+        width: 90%;
+        margin: 0 auto;
+    }
+
+    .cardActionsContainer {
+        right: 40%;
+    }
+}
